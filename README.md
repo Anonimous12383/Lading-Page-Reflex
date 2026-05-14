@@ -132,7 +132,7 @@ landing_reflex/
 
 Proyecto desarrollado por:
 
-**Jimena Meléndez**
+**Jhoan Díaz**
 
 ---
 
